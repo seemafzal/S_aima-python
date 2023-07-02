@@ -1,7 +1,7 @@
 """
 Implement Agents and Environments. (Chapters 1-2)
 
-The class hierarchies are as follows:
+The class hierarchies are as follows: abcd
 
 Thing ## A physical object that can exist in an environment
     Agent
